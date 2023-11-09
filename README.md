@@ -1,4 +1,4 @@
-# Identity Provider Project
+# API Gateway Project
 
 Test project learning how to use identity providers (keycloak) with microservices.
 
